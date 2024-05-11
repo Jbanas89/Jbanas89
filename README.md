@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything. I am fairly new to programming but I am here to learn and help others if I can.
 - 📫 How to reach me: ... On GitHub or banas.josh89@gmail.com
 - 😄 Pronouns: ...  He/ Him
-- ⚡ Fun fact: ... I have an orange cat named Chester.
+- ⚡ Fun fact: ... I have an orange cat named Chester 😼
 
