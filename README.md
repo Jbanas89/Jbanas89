@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on ... Simple projects that I can contribute to while learning new techniques.
 - 🤔 I’m looking for help with ... Ways I can make my code more efficient and attractive to potential employers.
 - 💬 Ask me about ... Anything. I am fairly new to programming but I am here to learn and help others if I can.
-- 📫 How to reach me: ... On GitHub or banas.josh89@gmail.com
 - 😄 Pronouns: ...  He/ Him
 - ⚡ Fun fact: ... I have an orange cat named Chester 😼
 
